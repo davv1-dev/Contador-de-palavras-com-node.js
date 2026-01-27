@@ -1,0 +1,21 @@
+{
+  "name": "3709-nodejs-lib-arquivos-iniciais",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davv1-dev/3709-nodejs-lib-arquivos-iniciais.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davv1-dev/3709-nodejs-lib-arquivos-iniciais/issues"
+  },
+  "homepage": "https://github.com/davv1-dev/3709-nodejs-lib-arquivos-iniciais#readme"
+}
