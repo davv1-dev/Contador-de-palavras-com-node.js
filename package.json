@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/davv1-dev/3709-nodejs-lib-arquivos-iniciais/issues"
   },
-  "homepage": "https://github.com/davv1-dev/3709-nodejs-lib-arquivos-iniciais#readme"
+  "homepage": "https://github.com/davv1-dev/3709-nodejs-lib-arquivos-iniciais#readme",
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
 }
