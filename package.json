@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/davv1-dev/3709-nodejs-lib-arquivos-iniciais#readme",
   "dependencies": {
+    "chalk": "^5.6.2",
     "commander": "^14.0.2"
   }
 }
